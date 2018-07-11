@@ -1,0 +1,21 @@
+body {
+    // padding-top: 96px; // magic number
+    font-family: $sans;
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: $header-font;
+}
+
+.lead {
+    font-size: .8rem;
+    @include media-breakpoint-up (md) {
+    font-size: 1rem;
+    }
+}
+
+.front-typography, .lead {
+    opacity: .85
+}
