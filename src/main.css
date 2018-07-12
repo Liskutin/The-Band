@@ -7191,9 +7191,8 @@ html, body {
   background-position: bottom center; }
 
 .hero {
-  padding-top: 20vh;
-  padding-bottom: 25vh;
-  overflow-x: hidden; }
+  padding-top: 15vh;
+  padding-bottom: 15vh; }
   .hero a:hover {
     color: #d23400 !important; }
 
