@@ -7186,7 +7186,7 @@ html, body {
   overflow-x: hidden; }
 
 .background-image {
-  background-image: url(../../img/hero.jpg);
+  background-image: url(../img/hero.jpg);
   background-size: cover;
   background-position: bottom center; }
 
@@ -7198,7 +7198,7 @@ html, body {
     color: #d23400 !important; }
 
 .about-title {
-  background-image: url(../../img/about-bg.jpg);
+  background-image: url(../img/about-bg.jpg);
   background-size: cover;
   min-height: 40vw; }
 
