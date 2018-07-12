@@ -10,5 +10,3 @@ Used: BootStrap, Prepros (sass), HTML&CSS.
 
 Future plans: Plan to do more once I progress further with my learning - javascript etc. Also once I am there plan to change navbar to have scrol
 effect and perhaps expand the project for additional pages (albums) - music. 
-
-KNOWN ISSUES: In some instances, GitHub Pages load my heading font "banshee-std" incorrectly. 
